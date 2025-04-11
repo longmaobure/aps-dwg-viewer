@@ -1,5 +1,5 @@
 In this sample, we will be creating a simple web page that allows end users to upload some files to Forge storage service, then translate them and display them in a web browser.
-
+set [https://get-started.aps.autodesk.com/tutorials/simple-viewer/viewer]
 - Authenticate your developer identity
 - Create a bucket
 - Get bucket detail
